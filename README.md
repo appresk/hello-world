@@ -1,2 +1,2 @@
 # hello-world
-hello world first project
+hello world first project by AppResk
